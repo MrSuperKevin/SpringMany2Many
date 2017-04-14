@@ -4,12 +4,10 @@ asspath
 .project
 .target
 .classpath
-**/.settings
-**/.classpath
-**/.eclipse
-**/target/
 target/
 bin/
 .jupiter
+
+#IntelliJ Stuff
 .idea
-**/*.iml
+*.iml
